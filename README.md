@@ -1,4 +1,4 @@
-# Ruby on Rails Tutuorial: first application
+# Ruby on Rails Tutuorial: "hello, world!!!"
 
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
